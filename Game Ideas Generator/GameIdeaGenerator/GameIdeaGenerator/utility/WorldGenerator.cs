@@ -15,14 +15,23 @@ namespace GameIdeaGenerator.utility
     public class WorldGenerator
     {
         private UserInput userInput;
+        private WorldNameGenerator worldNameGenerator;
+
         public WorldGenerator(UserInput userInput)
         {
             this.userInput = userInput;
         }
 
+        public World CreateWorld(List<GameType> userGameTypes)
+        {
+            //Name generation
+            worldNameGenerator.GetWorldGen(userGameTypes);
+            World world = new World(worldNameGenerator.GetWorldGen(userGameTypes), "");
+            return world;
 
+        } 
 
-
+        
 
     }
 }

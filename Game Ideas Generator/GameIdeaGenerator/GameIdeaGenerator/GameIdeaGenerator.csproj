@@ -58,10 +58,16 @@
     <Compile Include="main\Main.cs" />
     <Compile Include="managers\GameIdeaManager.cs" />
     <Compile Include="models\GameIdea.cs" />
+    <Compile Include="models\World.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="storage\WorldStorage.cs" />
+    <Compile Include="utility\WorldNameGenerator.cs" />
     <Compile Include="utility\UserInput.cs" />
     <Compile Include="utility\WorldGenerator.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GameIdeaGenerator",
+    "\\GameIdeaGenerator\\GameIdeaGenerator",
+    "\\GameIdeaGenerator\\GameIdeaGenerator\\main",
+    "\\GameIdeaGenerator\\GameIdeaGenerator\\managers",
+    "\\GameIdeaGenerator\\GameIdeaGenerator\\models",
+    "\\GameIdeaGenerator\\GameIdeaGenerator\\obj",
+    "\\GameIdeaGenerator\\GameIdeaGenerator\\utility"
+  ],
+  "SelectedNode": "\\GameIdeaGenerator\\GameIdeaGenerator\\utility\\WorldGenerator.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,10 @@
+C:\C#\GameIdeaGenerator\Game Ideas Generator\GameIdeaGenerator\GameIdeaGenerator\bin\Debug\GameIdeaGenerator.exe.config
+C:\C#\GameIdeaGenerator\Game Ideas Generator\GameIdeaGenerator\GameIdeaGenerator\bin\Debug\GameIdeaGenerator.exe
+C:\C#\GameIdeaGenerator\Game Ideas Generator\GameIdeaGenerator\GameIdeaGenerator\bin\Debug\GameIdeaGenerator.pdb
+C:\C#\GameIdeaGenerator\Game Ideas Generator\GameIdeaGenerator\GameIdeaGenerator\obj\Debug\GameIdeaGenerator.csproj.AssemblyReference.cache
+C:\C#\GameIdeaGenerator\Game Ideas Generator\GameIdeaGenerator\GameIdeaGenerator\obj\Debug\GameIdeaGenerator.Form1.resources
+C:\C#\GameIdeaGenerator\Game Ideas Generator\GameIdeaGenerator\GameIdeaGenerator\obj\Debug\GameIdeaGenerator.Properties.Resources.resources
+C:\C#\GameIdeaGenerator\Game Ideas Generator\GameIdeaGenerator\GameIdeaGenerator\obj\Debug\GameIdeaGenerator.csproj.GenerateResource.cache
+C:\C#\GameIdeaGenerator\Game Ideas Generator\GameIdeaGenerator\GameIdeaGenerator\obj\Debug\GameIdeaGenerator.csproj.CoreCompileInputs.cache
+C:\C#\GameIdeaGenerator\Game Ideas Generator\GameIdeaGenerator\GameIdeaGenerator\obj\Debug\GameIdeaGenerator.exe
+C:\C#\GameIdeaGenerator\Game Ideas Generator\GameIdeaGenerator\GameIdeaGenerator\obj\Debug\GameIdeaGenerator.pdb
